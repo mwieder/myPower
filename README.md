@@ -14,6 +14,11 @@ INSTALL INSTRUCTIONS
 
 2. Download and Unzip myPower-main.zip (this project) to preferred Folder (Usually /home/pi/myPower)
 
-3. run the myPower executable
+3. Right click the myPower file, go to properties -> permissions and allow anyone to execute (or CHMOD) 
 
-4. Log files are CSV type and will be saved into /home/pi/myPower/log
+4. run the myPower executable
+
+5. Log files are CSV type and will be saved into /home/pi/myPower/log
+
+
+The myPower program was created using LiveCode community version 7.0.4
