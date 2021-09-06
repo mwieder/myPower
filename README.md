@@ -12,7 +12,7 @@ INSTALL INSTRUCTIONS
 
 1. Complete setup of the LeChacal RPICT8 HAT as per the instructions on their Wiki -  [http://lechacal.com/wiki/index.php?title=RPICT8_Version_5]
 
-2. Unzip myPower.zip to preferred Folder (Usually /home/pi/myPower)
+2. Download and Unzip myPower-main.zip (this project) to preferred Folder (Usually /home/pi/myPower)
 
 3. run the myPower executable
 
