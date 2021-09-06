@@ -22,4 +22,6 @@ INSTALL INSTRUCTIONS
 
 
 The myPower program was created using LiveCode community version 7.0.4
+
+--Livecode Community 7.0.4 Download Links--
 Livecode Community 7.0.4 for Windows -> https://drive.google.com/file/d/12pmye5RoCY0KfHj_ayjftTeS7RpJrc0Y/view?usp=sharing
