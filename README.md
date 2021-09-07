@@ -12,13 +12,11 @@ INSTALL INSTRUCTIONS
 
 1. Complete setup of the LeChacal RPICT8 HAT as per the instructions on their Wiki -  [http://lechacal.com/wiki/index.php?title=RPICT8_Version_5]
 
-2. Download and Unzip myPower-main.zip (this project) to preferred Folder (Usually /home/pi/myPower)
+2. Download and Unzip myPower-main.zip (this project) to preferred Folder (Usually /home/pi/mypower)
 
-3. Right click the myPower file, go to properties -> permissions and allow anyone to execute (or CHMOD) 
+3. run the myPower executable
 
-4. run the myPower executable
-
-5. Log files are CSV type and will be saved into /home/pi/myPower/log
+4. Log files are CSV type and will be saved into /home/pi/mypower/log
 
 
 The myPower program was created using LiveCode community version 7.0.4 windows -> https://drive.google.com/file/d/12pmye5RoCY0KfHj_ayjftTeS7RpJrc0Y/view?usp=sharing
