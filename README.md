@@ -3,8 +3,16 @@ Power monitoring and logging using the Raspberry Pi
 
 myPower is a simple monitoring and logging program for the Raspberry Pi. It collects live power usage data from the LeChacal RPICT8 current HAT and CT Sensors. myPower logs the data to daily files calculating each day's KiloWatt Hour Usage. [http://lechacal.com/wiki/index.php?title=RPICT8_Version_5]
 
-**myPower Remote App is Still In Development**
-When the "myPower Remote" app connects to myPower via Wifi the data can be viewed in a user friendly format with a line graph and pie chart. Monthly, Yearly, and lifetime KiloWatt Hour Usage can also be viewed and graphed using the "myPower Remote" app.
+**myPower Remote App** -> https://github.com/km6wye/myPower-Remote
+When the "myPower Remote" app connects to myPower via Wifi the data can be viewed in a user friendly format with a 
+
+* line graph
+* pie chart
+* Monthly KiloWatt Hour Usage
+* Yearly KiloWatt Hour Usage 
+* Lifetime KiloWatt Hour Usage
+https://github.com/km6wye/myPower-Remote
+
 
 INSTALL INSTRUCTIONS
 
